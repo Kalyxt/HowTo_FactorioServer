@@ -12,5 +12,5 @@ Docs on how to start Factorio headless server
   "Kalixt"
 ]`
 - Create empty `.bat` file in `C:\Program Files (x86)\Steam\steamapps\common\Factorio\bin\x64` with following parameters. <br> `start /wait .\factorio.exe --start-server-load-latest --server-settings "C:\Program Files (x86)\Steam\steamapps\common\Factorio\data\servername-server-settings.json" --server-adminlist "C:\Program Files (x86)\Steam\steamapps\common\Factorio\data\servername-server-admin-list.json"`. <br>
-- If it stops for any reason and you want to see error message, add PAUSE to the .bat file, this prevent command line window from automatically closing.
-
+- If it stops for any reason and you want to see error message, add PAUSE to the .bat file, this prevent command line window from automatically closing. <br>
+- Game saves are located in `C:\Users\Username\AppData\Roaming\Factorio\saves`. <br>
