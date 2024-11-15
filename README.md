@@ -1,6 +1,6 @@
 # HowTo_FactorioServer
 Docs on how to start Factorio headless server. <br>
-This not cover how to set up networking and port forward. <br>
+This not cover how to set up networking and port forward to make your server available from internet. <br>
 
 # Windows
 
